@@ -1,8 +1,6 @@
 # House-Price-Predictor-ML-Model
 This project implements a basic machine learning model to predict housing prices using the California Housing dataset. The goal of the project is to demonstrate a complete machine learning workflow, including data exploration, preprocessing, model training, and evaluation.
 
-This project is a beginner-friendly machine learning implementation that predicts housing prices using the California Housing dataset. The goal of this project is to understand the complete workflow of building a machine learning model — from loading datasets and performing exploratory data analysis to training a predictive model and evaluating its performance.
-
 The project uses structured housing data derived from the 1990 U.S. Census. It includes features such as median income, house age, total rooms, population, and geographical information. These features are used to train a regression model that predicts the median house value of a district.
 
 Dataset Files
@@ -22,8 +20,6 @@ This dataset contains housing information collected during the 1990 U.S. Census.
 - **Longitude** – Geographical longitude coordinate of the district.
 - **Median House Value (Target Variable)** – Median value of houses in the district, which the model aims to predict.
 
-mnist_*.csv
-A small sample of the MNIST dataset used for handwritten digit recognition. It is included for experimentation with machine learning datasets but is not directly used in the housing price prediction model.
 
 anscombe.json
 Contains Anscombe’s Quartet, a classic dataset used in statistics to demonstrate the importance of data visualization when interpreting statistical data.
